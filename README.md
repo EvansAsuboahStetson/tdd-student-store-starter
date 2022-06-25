@@ -8,7 +8,7 @@ Selling merchandise in the modern era requires digital solutions. For this proje
 ![Alt Text](https://github.com/EvansAsuboahStetson/tdd-student-store-starter/blob/main/store_anim.gif)
 
 #####Backend
-![Alt Text](https://github.com/EvansAsuboahStetson/tdd-student-store-starter/blob/main/store_anim.gif)
+![Alt Text](https://github.com/EvansAsuboahStetson/tdd-student-store-starter/blob/main/Stores.gif)
 
 ### Application Features
 
