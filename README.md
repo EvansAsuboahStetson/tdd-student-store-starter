@@ -8,9 +8,7 @@ Selling merchandise in the modern era requires digital solutions. For this proje
 ![Alt Text](https://github.com/EvansAsuboahStetson/tdd-student-store-starter/blob/main/store_anim.gif)
 
 #####Backend
-
-![Alt Text](<div style="position: relative; padding-bottom: 56.22254758418741%; height: 0;"><iframe src="https://www.loom.com/embed/f34031a24b134c4ea16958a43fcbf7f3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>)
-
+![Alt Text](https://github.com/EvansAsuboahStetson/tdd-student-store-starter/blob/main/store_anim.gif)
 
 ### Application Features
 
